@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Resistor Color Duo Test",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest resistor_color_duo_test.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5
+    }
+  ]
+}
